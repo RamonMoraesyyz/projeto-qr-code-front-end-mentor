@@ -1,0 +1,20 @@
+body h1 {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    }
+    
+    body img {
+    border-image: auto;
+    
+    
+    }
+
+
+    body h2 {
+    font-size: large;
+    color: rgb(8, 8, 8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    }
